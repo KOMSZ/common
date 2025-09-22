@@ -616,6 +616,12 @@ define:
         jp: "企画プロデューサー 企画営業プロデューサー"
         categories:
           - *ANIME_PRODUCER
+      37:
+        en: "Planning Manager"
+        cn: "策划"
+        jp: "プランニングマネージャー"
+        categories:
+          - *ANIME_PRODUCER 
       38:
         en: "Publicity"
         cn: "宣传"
